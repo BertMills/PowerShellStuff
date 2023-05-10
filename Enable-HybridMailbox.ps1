@@ -4,7 +4,7 @@
 # 
 # Usage: Enable-HybridMailbox -Username <username>
 #
-# Be sure to change $Domain, $365Domain and $ExchangeServer to match your environment
+# Be sure to change $Domain, $365Domain, $ExchangeServer, and $AADConnectServer to match your environment
 #
 # Created on: 2022/03/10
 # Written by: Bert Mills
